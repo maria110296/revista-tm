@@ -1,12 +1,10 @@
-.contenedorprincipal{
-
+.contenedorprincipal {
     width: 640px;
 }
 
-.introduccion { 
+.introduccion {
     width: 640px;
 }
-
 
 .texto {
     width: 600px;
@@ -18,11 +16,10 @@
     margin-left: 15px;
 }
 
-.contendor ¨{
-width: 640px;
-display: flex;
-flex-direction: column;
-
+.contendor {
+    width: 640px;
+    display: flex;
+    flex-direction: column;
 }
 
 .texto1 {
@@ -35,64 +32,49 @@ flex-direction: column;
     margin-left: 15px;
 }
 
-
 .imagen {
-width: 200px;
+    width: 200px;
 }
 
-.imagenmatrox { 
+.imagenmatrox {
     width: 600px;
 }
 
-.imagenboton { 
- width: 150px;
-margin-inline-end: 50%;
+.imagenboton {
+    width: 150px;
+    margin-inline-end: 50%;
 }
 
-
 .contenedoradder {
-background-color: rgb(119, 142, 145);
+    background-color: rgb(119, 142, 145);
     display: flex;
-flex-direction: column;
-width: 640px;
-
-
-
+    flex-direction: column;
+    width: 640px;
 }
 
 .texto2 {
     width: 600px;
     color: aliceblue;
     margin-left: 15px;
-    
 }
 
-    .imagenadder {
-        width: 350px;
-        
-    }
+.imagenadder {
+    width: 350px;
+    align-self: center;
+}
 
-    .boton2 {
-        width: 150px;
+.boton2 {
+    width: 150px;
+}
 
-
-    }
-
-
-    .imagenadder {
-
-        align-self: center;
-    }
-     
 .titulo1 {
     color: aliceblue;
     margin-left: 15px;
 }
 
-.titulo2 { 
-color: aliceblue;
-margin-left: 15px;
-
+.titulo2 {
+    color: aliceblue;
+    margin-left: 15px;
 }
 
 .texto3 {
@@ -105,19 +87,18 @@ margin-left: 15px;
     margin: 15px;
 }
 
-.contenedorcasoestudio { 
+.contenedorcasoestudio {
     width: 640px;
 }
 
-.titulo5 { 
+.titulo5 {
     width: 600px;
     margin-left: 15px;
 }
 
 .texto5 {
     width: 600px;
-margin-left: 15px;
-
+    margin-left: 15px;
 }
 
 .texto6 {
@@ -125,54 +106,39 @@ margin-left: 15px;
     margin-left: 15px;
 }
 
-
 .textoeimagen {
-    width: 640;
+    width: 640px;
     display: flex;
-    
-    
-    
 }
 
 .institutortve {
     width: 200px;
     margin-left: 50px;
-    
- 
-
 }
 
 .texto7 {
     width: 300px;
     margin-left: 15px;
     align-items: center;
-  
-   
 }
 
 .botoncasoestudio {
     width: 640px;
-  
 }
 
 .boton3 {
     width: 150px;
-    
-    
 }
 
 .contendorcontacto {
-
     width: 640px;
     background-color: rgb(178, 166, 154);
     display: flex;
     flex-direction: column;
     align-self: center;
- 
 }
 
 .contacto {
     width: 600px;
     margin: 15px;
-   
 }
